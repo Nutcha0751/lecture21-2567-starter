@@ -1,5 +1,7 @@
 ## Lecture21 Starter
 
+mongodb+srv://nutcha:Nutcha39806_@cluster0.shnh7.mongodb.net/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 After cloning repository, open the project with VSCode and install dependencies using the following command:
