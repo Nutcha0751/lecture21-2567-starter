@@ -34,7 +34,7 @@ export const GET = async () => {
     include: { course: true },
   });
 
-  console.log(enrollments);
+  //console.log(enrollments);
 
   return NextResponse.json({
     ok: true,
